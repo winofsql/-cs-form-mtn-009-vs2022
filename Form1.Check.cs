@@ -1,4 +1,6 @@
-﻿namespace cs_form_mtn_009_vs2022
+using System.Text.RegularExpressions;
+
+namespace cs_form_mtn_009_vs2022
 {
     partial class Form1
     {
